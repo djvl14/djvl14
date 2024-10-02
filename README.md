@@ -4,7 +4,6 @@
 Soy un ingeniera de software apasionada por hacer que el código abierto sea más sencillo y accesible, crear tecnología en IoT para elevar a las personas y construir comunidades.
 
 ---
-⭐️ From [Drey](https://github.com/Dreyuix)
  
 <!--
 **Dreyuix/Dreyuix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
